@@ -1,4 +1,6 @@
 # Earthquake Activity in Indonesia (2015–2025)
+![Dahsboard Earthquake Analytics](https://github.com/user-attachments/assets/1ae9cd29-3df1-494d-b1db-5d8d1a9e602b)
+
 
 ## Overview
 
